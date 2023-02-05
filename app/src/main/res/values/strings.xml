@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="stopwatch">! Stopwatch !</string>
+    <string name="start">Start</string>
+    <string name="now_our_stopwatch_is_ready_you_can_start_stop_and_reset_the_watch">Now, our stopwatch is ready...,you can start, stop and reset the watch...!</string>
+    <string name="reset">Reset</string>
+    <string name="stop">Stop</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="todo">TODO</string>
+</resources>
